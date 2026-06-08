@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "trade-blog",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["/Users/shravan/projects/trade/.claude/diagnose.sh"],
+      "port": 4000
+    }
+  ]
+}
