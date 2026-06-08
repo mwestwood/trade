@@ -1,0 +1,82 @@
+# The Site Configuration
+
+theme: jekyll-theme-chirpy
+
+lang: en
+
+timezone: America/New_York
+
+title: mwestwood | Trade
+tagline: Notes on markets, systems, and edges
+
+description: >-
+  A personal trading blog by mwestwood — market analysis, strategy notes, and research.
+
+url: "https://mwestwood.github.io"
+
+baseurl: "/trade"
+
+github:
+  username: mwestwood
+
+social:
+  name: mwestwood
+  email: ""
+  links:
+    - https://github.com/mwestwood
+
+theme_mode: dark
+
+toc: true
+
+comments:
+  provider:
+
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+
+paginate: 10
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+  quiet_deps: true
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/

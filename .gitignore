@@ -1,0 +1,9 @@
+.bundle
+vendor
+.jekyll-cache
+_site
+node_modules
+package-lock.json
+.idea
+_sass/vendors
+assets/js/dist
