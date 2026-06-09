@@ -252,3 +252,26 @@ If your numbers are close, you have a strategy.
 If they're not, you have a hobby.
 
 The market doesn't care which one it is. You should.
+
+---
+
+## References
+
+- [Day Trading Strategies: Find the Right Approach for Your Style — Day Trading Toolkit](https://daytradingtoolkit.com/strategies/day-trading-strategies-overview-types/)
+- [Trend Following vs. Mean Reversion: Which Strategy Wins in 2026? — SetupAlpha](https://medium.com/@setupalpha.capital/trend-following-vs-mean-reversion-which-strategy-wins-in-2026-9513565b73f7)
+- [Mastering Mean Reversion and Trend Following — heyGoTrade](https://www.heygotrade.com/en/blog/mastering-mean-reversion-and-trend-following/)
+- [Key Algorithmic Trading Strategies: From Trend Following to Mean Reversion and Beyond — Bookmap](https://bookmap.com/blog/key-algorithmic-trading-strategies-from-trend-following-to-mean-reversion-and-beyond)
+- [Trading the Opening Range: Mean Reversion vs Trend Following — Option Alpha](https://optionalpha.com/blog/opening-range-breakout)
+- [Mean Reversion Trading: Strategies & Indicators — ForexTester](https://forextester.com/blog/mean-reversion-trading/)
+- [Mean Reversion vs Trend Following Through the Years — Alvarez Quant Trading](https://alvarezquanttrading.com/blog/mean-reversion-vs-trend-following-through-the-years/)
+- [Gap and Go Strategy Explained — Bullish Bears](https://bullishbears.com/gap-and-go-strategy/)
+- [Gap and Go Trading for Beginners — Morpher](https://www.morpher.com/blog/gap-and-go)
+- [Momentum Trading Strategies: Proven Tactics, Indicators & Real Backtests — ForexTester](https://forextester.com/blog/momentum-trading-strategies/)
+- [Momentum Trading: Strategies for Beginners — StocksToTrade](https://stockstotrade.com/momentum-trading/)
+- [3 Simple Momentum Swing Trading Strategies — Warrior Trading](https://www.warriortrading.com/momentum-swing-trading-strategies/)
+- [Swing Trading Strategies 2026 — ChartingLens](https://chartinglens.com/blog/swing-trading-strategies)
+- [7 Popular Swing Trading Strategies with Practical Examples — newtrading.io](https://www.newtrading.io/swing-trading-strategies/)
+- [Pairs Trade — Wikipedia](https://en.wikipedia.org/wiki/Pairs_trade)
+- [Statistical Arbitrage — Wikipedia](https://en.wikipedia.org/wiki/Statistical_arbitrage)
+- [The Comprehensive Introduction to Pairs Trading — Hudson & Thames](https://hudsonthames.org/definitive-guide-to-pairs-trading/)
+- [Day Trading Strategies: 8 Approaches That Actually Work in 2026 — Prop Trading Vibes](https://proptradingvibes.com/blog/day-trading-strategies)

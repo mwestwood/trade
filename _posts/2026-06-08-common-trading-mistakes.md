@@ -161,3 +161,18 @@ That is the entire game.
 The goal is not to be a great trader this week. The goal is to **stop being a bad one**.
 
 Everything else comes after that.
+
+---
+
+## References
+
+- [Trading Bias: 30 Psychology Biases And Strategies to Overcome Them — QuantifiedStrategies](https://www.quantifiedstrategies.com/trading-bias/)
+- [Trading Psychology Mistakes: 7 Common Traps to Avoid — Trade with the Pros](https://tradewiththepros.com/trading-psychology-mistakes/)
+- [Common Behavioral Biases in Trading & Finance — Britannica Money](https://www.britannica.com/money/behavioral-biases-in-finance)
+- [Loss Aversion in Trading: The Disposition Effect Explained — TradesViz](https://www.tradesviz.com/trading-psychology/loss-aversion/)
+- [Disposition Effect — The Decision Lab](https://thedecisionlab.com/biases/disposition-effect)
+- [Overtrading: Why Less Is More in Trading Success — FTMO Academy](https://academy.ftmo.com/lesson/overtrading/)
+- [Revenge Trading: The Leading Cause of Trader Failure — Warrior Trading](https://www.warriortrading.com/revenge-trading/)
+- [Revenge Trading: The 5-Step System to Identify and Stop It — Tradezella](https://www.tradezella.com/blog/revenge-trading)
+- [The Dangers of Overtrading — Bookmap](https://bookmap.com/blog/the-dangers-of-overtrading-and-how-to-overcome-them)
+- [Why Most Traders Fail Risk Management — PFH Markets](https://blog.pfhmarkets.com/trading-risk-management/trading-risk-mistakes/)
